@@ -1,0 +1,6 @@
+projectKey=securebank
+serverUrl=http://localhost:9000
+serverVersion=26.9.0.129388
+dashboardUrl=http://localhost:9000/dashboard?id=securebank
+ceTaskId=7f289000-677c-427c-8456-3b8b8f763b71
+ceTaskUrl=http://localhost:9000/api/ce/task?id=7f289000-677c-427c-8456-3b8b8f763b71
